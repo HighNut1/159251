@@ -4,7 +4,7 @@ import java.util.ResourceBundle;
 public class Greeter {
 
   private Locale locale;
-  private String name;
+  private String "-"+name+"-";
   private int age;
 
   public Greeter(String language, String country, String name) {
