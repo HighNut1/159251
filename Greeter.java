@@ -4,7 +4,11 @@ import java.util.ResourceBundle;
 public class Greeter {
 
   private Locale locale;
+<<<<<<< HEAD
   private String name.UpperCase();
+=======
+  private String "-"+name+"-";
+>>>>>>> featuer-2
   private int age;
 
   public Greeter(String language, String country, String name) {
